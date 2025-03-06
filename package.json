@@ -3,9 +3,10 @@
   "displayName": "DarkStash",
   "description": "DarkStash - Dark Theme with dark violet tonality",
   "version": "1.0.0",
+  "author": "Tomas Hurrell <hurrelltomas@gmail.com> (https://github.com/HurrellT)",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/HurrellT/theme-darkstash"
   },
   "engines": {
     "vscode": "^1.98.0"
