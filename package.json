@@ -1,0 +1,25 @@
+{
+  "name": "theme-darkstash",
+  "displayName": "DarkStash",
+  "description": "DarkStash - Dark Theme with dark violet tonality",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DarkStash",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkStash-color-theme.json"
+      }
+    ]
+  }
+}
